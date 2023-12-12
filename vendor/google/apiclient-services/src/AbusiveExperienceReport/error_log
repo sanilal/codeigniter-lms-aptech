@@ -1,0 +1,8 @@
+[09-Nov-2022 02:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AbusiveExperienceReport/SiteSummaryResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AbusiveExperienceReport/SiteSummaryResponse.php on line 20
+[09-Nov-2022 02:26:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AbusiveExperienceReport/ViolatingSitesResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AbusiveExperienceReport/ViolatingSitesResponse.php on line 20

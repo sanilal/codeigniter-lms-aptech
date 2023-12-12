@@ -1,0 +1,1 @@
+[08-Nov-2022 18:46:45 UTC] PHP Notice:  Undefined variable: rootDir in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/lib/fonts/dompdf_font_family_cache.dist.php on line 2

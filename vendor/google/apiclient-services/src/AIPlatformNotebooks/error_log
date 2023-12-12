@@ -1,0 +1,300 @@
+[08-Nov-2022 23:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/AcceleratorConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/AcceleratorConfig.php on line 20
+[08-Nov-2022 23:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Binding.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Binding.php on line 20
+[08-Nov-2022 23:37:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/BootImage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/BootImage.php on line 20
+[08-Nov-2022 23:39:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/CancelOperationRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/CancelOperationRequest.php on line 20
+[08-Nov-2022 23:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ContainerImage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ContainerImage.php on line 20
+[08-Nov-2022 23:43:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/DataprocParameters.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/DataprocParameters.php on line 20
+[08-Nov-2022 23:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Disk.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Disk.php on line 20
+[08-Nov-2022 23:48:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/EncryptionConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/EncryptionConfig.php on line 20
+[08-Nov-2022 23:50:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Environment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Environment.php on line 20
+[08-Nov-2022 23:52:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Event.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Event.php on line 20
+[08-Nov-2022 23:55:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Execution.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Execution.php on line 20
+[08-Nov-2022 23:57:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ExecutionTemplate.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ExecutionTemplate.php on line 20
+[08-Nov-2022 23:59:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Expr.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Expr.php on line 20
+[09-Nov-2022 00:02:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/GetInstanceHealthResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/GetInstanceHealthResponse.php on line 20
+[09-Nov-2022 00:04:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/GuestOsFeature.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/GuestOsFeature.php on line 20
+[09-Nov-2022 00:06:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Instance.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Instance.php on line 20
+[09-Nov-2022 00:09:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/InstanceConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/InstanceConfig.php on line 20
+[09-Nov-2022 00:11:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/IsInstanceUpgradeableResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/IsInstanceUpgradeableResponse.php on line 20
+[09-Nov-2022 00:13:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListEnvironmentsResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListEnvironmentsResponse.php on line 20
+[09-Nov-2022 00:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListExecutionsResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListExecutionsResponse.php on line 20
+[09-Nov-2022 00:18:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListInstancesResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListInstancesResponse.php on line 20
+[09-Nov-2022 00:20:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListLocationsResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListLocationsResponse.php on line 20
+[09-Nov-2022 00:23:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListOperationsResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListOperationsResponse.php on line 20
+[09-Nov-2022 00:25:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListRuntimesResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListRuntimesResponse.php on line 20
+[09-Nov-2022 00:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListSchedulesResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ListSchedulesResponse.php on line 20
+[09-Nov-2022 00:30:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/LocalDisk.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/LocalDisk.php on line 20
+[09-Nov-2022 00:32:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/LocalDiskInitializeParams.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/LocalDiskInitializeParams.php on line 20
+[09-Nov-2022 00:34:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Location.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Location.php on line 20
+[09-Nov-2022 00:36:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/NotebooksEmpty.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/NotebooksEmpty.php on line 20
+[09-Nov-2022 00:39:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Operation.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Operation.php on line 20
+[09-Nov-2022 00:41:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/OperationMetadata.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/OperationMetadata.php on line 20
+[09-Nov-2022 00:43:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Policy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Policy.php on line 20
+[09-Nov-2022 00:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RefreshRuntimeTokenInternalRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RefreshRuntimeTokenInternalRequest.php on line 20
+[09-Nov-2022 00:47:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RefreshRuntimeTokenInternalResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RefreshRuntimeTokenInternalResponse.php on line 20
+[09-Nov-2022 00:50:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RegisterInstanceRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RegisterInstanceRequest.php on line 20
+[09-Nov-2022 00:52:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ReportInstanceInfoRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ReportInstanceInfoRequest.php on line 20
+[09-Nov-2022 00:54:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ReportRuntimeEventRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ReportRuntimeEventRequest.php on line 20
+[09-Nov-2022 00:56:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ReservationAffinity.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ReservationAffinity.php on line 20
+[09-Nov-2022 00:59:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ResetInstanceRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ResetInstanceRequest.php on line 20
+[09-Nov-2022 01:01:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ResetRuntimeRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ResetRuntimeRequest.php on line 20
+[09-Nov-2022 01:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RollbackInstanceRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RollbackInstanceRequest.php on line 20
+[09-Nov-2022 01:05:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Runtime.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Runtime.php on line 20
+[09-Nov-2022 01:08:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeAcceleratorConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeAcceleratorConfig.php on line 20
+[09-Nov-2022 01:10:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeAccessConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeAccessConfig.php on line 20
+[09-Nov-2022 01:12:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeGuestOsFeature.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeGuestOsFeature.php on line 20
+[09-Nov-2022 01:14:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeMetrics.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeMetrics.php on line 20
+[09-Nov-2022 01:16:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeShieldedInstanceConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeShieldedInstanceConfig.php on line 20
+[09-Nov-2022 01:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeSoftwareConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/RuntimeSoftwareConfig.php on line 20
+[09-Nov-2022 01:21:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Schedule.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Schedule.php on line 20
+[09-Nov-2022 01:23:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SchedulerAcceleratorConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SchedulerAcceleratorConfig.php on line 20
+[09-Nov-2022 01:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetIamPolicyRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetIamPolicyRequest.php on line 20
+[09-Nov-2022 01:27:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetInstanceAcceleratorRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetInstanceAcceleratorRequest.php on line 20
+[09-Nov-2022 01:30:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetInstanceLabelsRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetInstanceLabelsRequest.php on line 20
+[09-Nov-2022 01:32:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetInstanceMachineTypeRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SetInstanceMachineTypeRequest.php on line 20
+[09-Nov-2022 01:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ShieldedInstanceConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/ShieldedInstanceConfig.php on line 20
+[09-Nov-2022 01:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StartInstanceRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StartInstanceRequest.php on line 20
+[09-Nov-2022 01:39:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StartRuntimeRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StartRuntimeRequest.php on line 20
+[09-Nov-2022 01:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Status.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/Status.php on line 20
+[09-Nov-2022 01:43:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StopInstanceRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StopInstanceRequest.php on line 20
+[09-Nov-2022 01:45:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StopRuntimeRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/StopRuntimeRequest.php on line 20
+[09-Nov-2022 01:47:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SwitchRuntimeRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/SwitchRuntimeRequest.php on line 20
+[09-Nov-2022 01:50:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/TestIamPermissionsRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/TestIamPermissionsRequest.php on line 20
+[09-Nov-2022 01:52:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/TestIamPermissionsResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/TestIamPermissionsResponse.php on line 20
+[09-Nov-2022 01:54:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/TriggerScheduleRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/TriggerScheduleRequest.php on line 20
+[09-Nov-2022 01:56:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateInstanceConfigRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateInstanceConfigRequest.php on line 20
+[09-Nov-2022 01:58:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateInstanceMetadataItemsRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateInstanceMetadataItemsRequest.php on line 20
+[09-Nov-2022 02:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateInstanceMetadataItemsResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateInstanceMetadataItemsResponse.php on line 20
+[09-Nov-2022 02:03:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateShieldedInstanceConfigRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpdateShieldedInstanceConfigRequest.php on line 20
+[09-Nov-2022 02:05:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpgradeHistoryEntry.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpgradeHistoryEntry.php on line 20
+[09-Nov-2022 02:07:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpgradeInstanceInternalRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpgradeInstanceInternalRequest.php on line 20
+[09-Nov-2022 02:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpgradeInstanceRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/UpgradeInstanceRequest.php on line 20
+[09-Nov-2022 02:11:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VertexAIParameters.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VertexAIParameters.php on line 20
+[09-Nov-2022 02:13:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VirtualMachine.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VirtualMachine.php on line 20
+[09-Nov-2022 02:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VirtualMachineConfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VirtualMachineConfig.php on line 20
+[09-Nov-2022 02:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VmImage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks/VmImage.php on line 20

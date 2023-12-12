@@ -1,0 +1,78 @@
+[07-Jul-2022 11:59:29 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 8
+[07-Jul-2022 11:59:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 8
+[07-Jul-2022 12:00:18 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 8
+[07-Jul-2022 12:00:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 8
+[07-Jul-2022 12:17:13 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 9
+[07-Jul-2022 12:17:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 9
+[07-Jul-2022 12:21:37 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 11
+[07-Jul-2022 12:21:39 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 24
+[07-Jul-2022 12:21:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 24
+[07-Jul-2022 12:22:33 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 24
+[07-Jul-2022 12:22:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 24
+[07-Jul-2022 12:22:36 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 24
+[07-Jul-2022 12:22:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 24
+[07-Jul-2022 13:28:24 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 14
+[07-Jul-2022 13:28:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 16
+[07-Jul-2022 13:28:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 17
+[07-Jul-2022 13:28:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 18
+[07-Jul-2022 13:28:49 UTC] PHP Warning:  Use of undefined constant ChIJR3bT8TxDXz4RaAmjYocU1 - assumed 'ChIJR3bT8TxDXz4RaAmjYocU1' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:49 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:49 UTC] PHP Warning:  A non-numeric value encountered in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:49 UTC] PHP Warning:  A non-numeric value encountered in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:50 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 14
+[07-Jul-2022 13:28:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 16
+[07-Jul-2022 13:28:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 17
+[07-Jul-2022 13:28:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 18
+[07-Jul-2022 13:28:56 UTC] PHP Warning:  Use of undefined constant ChIJR3bT8TxDXz4RaAmjYocU1 - assumed 'ChIJR3bT8TxDXz4RaAmjYocU1' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:56 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:56 UTC] PHP Warning:  A non-numeric value encountered in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 2
+[07-Jul-2022 13:28:57 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 14
+[07-Jul-2022 13:28:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 16
+[07-Jul-2022 13:28:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 17
+[07-Jul-2022 13:28:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 18
+[07-Jul-2022 13:29:15 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 14
+[07-Jul-2022 13:29:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 16
+[07-Jul-2022 13:29:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 17
+[07-Jul-2022 13:29:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 18
+[07-Jul-2022 13:30:01 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 14
+[07-Jul-2022 13:30:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 16
+[07-Jul-2022 13:30:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 17
+[07-Jul-2022 13:30:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 18
+[07-Jul-2022 14:22:18 UTC] PHP Warning:  Unterminated comment starting line 73 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 73
+[07-Jul-2022 14:22:19 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 14
+[07-Jul-2022 14:22:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 16
+[07-Jul-2022 14:22:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 17
+[07-Jul-2022 14:22:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 18
+[07-Jul-2022 14:22:19 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:35:43 UTC] PHP Warning:  Unterminated comment starting line 73 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 73
+[07-Jul-2022 14:35:43 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:36:03 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:36:03 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:36:54 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:36:54 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:38:23 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:38:23 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:38:26 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:38:26 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:38:37 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:38:37 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:40:53 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:40:53 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:40:55 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:40:55 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:43:07 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:43:07 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:43:08 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:43:08 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:43:16 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[07-Jul-2022 14:43:16 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 32
+[07-Jul-2022 14:43:41 UTC] PHP Warning:  Unterminated comment starting line 73 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 73
+[07-Jul-2022 14:43:41 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 31
+[07-Jul-2022 14:56:27 UTC] PHP Warning:  Unterminated comment starting line 73 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 73
+[07-Jul-2022 14:56:27 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 31
+[12-Jul-2022 13:47:37 UTC] PHP Warning:  Unterminated comment starting line 73 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 73
+[12-Jul-2022 13:47:37 UTC] PHP Warning:  Use of undefined constant ARRAY_DATA - assumed 'ARRAY_DATA' (this will throw an Error in a future version of PHP) in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 31
+[12-Jul-2022 13:48:24 UTC] PHP Warning:  Unterminated comment starting line 74 in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 74
+[12-Jul-2022 13:48:25 UTC] PHP Notice:  Undefined index: result in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 46
+[12-Jul-2022 13:48:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/modelsan/aptech.ae/demo/google-reviews/index.php on line 46

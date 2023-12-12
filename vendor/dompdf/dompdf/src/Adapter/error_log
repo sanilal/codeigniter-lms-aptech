@@ -1,0 +1,12 @@
+[08-Nov-2022 19:10:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dompdf\Canvas' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Adapter/CPDF.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Adapter/CPDF.php on line 38
+[08-Nov-2022 19:12:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dompdf\Canvas' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Adapter/GD.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Adapter/GD.php on line 24
+[08-Nov-2022 19:14:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Dompdf\Canvas' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Adapter/PDFLib.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Adapter/PDFLib.php on line 34

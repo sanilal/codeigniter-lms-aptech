@@ -1,0 +1,4 @@
+[08-Nov-2022 21:40:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Renderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/Renderer.php on line 25

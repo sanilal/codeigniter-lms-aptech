@@ -1,0 +1,44 @@
+[08-Nov-2022 20:38:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Block.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 23
+[08-Nov-2022 20:41:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Image.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 21
+[08-Nov-2022 20:43:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 19
+[08-Nov-2022 20:45:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 18
+[08-Nov-2022 20:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 19
+[08-Nov-2022 20:49:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Page.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 20
+[08-Nov-2022 20:52:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Table.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 19
+[08-Nov-2022 20:54:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\Block' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[08-Nov-2022 20:56:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 20
+[08-Nov-2022 20:58:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[08-Nov-2022 21:01:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\FrameReflower\AbstractFrameReflower' not found in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Text.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 21

@@ -1,0 +1,16 @@
+[09-Nov-2022 02:33:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/AmpUrl.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/AmpUrl.php on line 20
+[09-Nov-2022 02:35:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/AmpUrlError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/AmpUrlError.php on line 20
+[09-Nov-2022 02:37:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/BatchGetAmpUrlsRequest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/BatchGetAmpUrlsRequest.php on line 20
+[09-Nov-2022 02:39:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Collection' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/BatchGetAmpUrlsResponse.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl/BatchGetAmpUrlsResponse.php on line 20

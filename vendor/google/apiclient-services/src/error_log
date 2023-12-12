@@ -1,0 +1,20 @@
+[08-Nov-2022 23:28:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AIPlatformNotebooks.php on line 35
+[09-Nov-2022 02:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AbusiveExperienceReport.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AbusiveExperienceReport.php on line 36
+[09-Nov-2022 02:28:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/Acceleratedmobilepageurl.php on line 36
+[09-Nov-2022 02:42:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AccessApproval.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AccessApproval.php on line 35
+[09-Nov-2022 03:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AccessContextManager.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/modelsan/aptech.ae/demo/vendor/google/apiclient-services/src/AccessContextManager.php on line 36
