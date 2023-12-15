@@ -260,7 +260,7 @@ foreach ($get_latest_banners->result_array() as $latest_banner) : ?>
                 <?php endforeach; ?>
 
                 <div class="col-12 mt-5 text-center">
-                    <a class="float-none btn btn-outline-secondary px-3 fw-600" href="<?php echo site_url('blogs'); ?>"><?php echo site_phrase('view_all'); ?></a>
+                    <a class="float-none btn btn-outline-secondary px-3 fw-600" href="<?php echo site_url('blog'); ?>"><?php echo site_phrase('view_all'); ?></a>
                 </div>
             </div>
         </div>

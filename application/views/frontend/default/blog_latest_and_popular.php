@@ -36,7 +36,7 @@
                     <?php endforeach; ?>
 
                     <div class="col-12">
-                        <a class="float-end btn btn-secondary px-3 fw-600" href="<?php echo site_url('blogs'); ?>"><?php echo site_phrase('view_all'); ?></a>
+                        <!-- <a class="float-end btn btn-secondary px-3 fw-600" href="<?php // echo site_url('blog'); ?>"><?php // echo site_phrase('view_all'); ?></a> -->
                     </div>
                 </div>
                 
@@ -75,7 +75,7 @@
                         <?php endforeach; ?>
                         <div class="col-12">
                             <div class="col-12">
-                                <a class="float-end btn btn-secondary px-3 fw-600" href="<?php echo site_url('blogs'); ?>"><?php echo site_phrase('view_all'); ?></a>
+                                <a class="float-end btn btn-secondary px-3 fw-600" href="<?php echo site_url('blog'); ?>"><?php echo site_phrase('view_all'); ?></a>
                             </div>
                         </div>
                     </div>
